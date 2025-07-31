@@ -1,6 +1,6 @@
 # C++ Algorithm Practice
 
-This repository contains selected C++ algorithm problems with English descriptions and implementations.
+
 
 These problems reflect the current progress of learning C++ and algorithmic problem solving.
 
