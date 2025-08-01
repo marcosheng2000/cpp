@@ -4,9 +4,6 @@
 
 These problems reflect the current progress of learning C++ and algorithmic problem solving.
 
-## Longest Balanced Fence Segment
-You are given a binary array representing red and blue fence bars (0 = red, 1 = blue). Find the length of the longest contiguous segment in which the number of red and blue bars are equal.
-
 ## Maximum Minimum Jump Distance After Removing Rocks
 Given a river of width m with n rocks positioned in it, you are allowed to remove up to k rocks. Your goal is to maximize the minimum distance one has to jump between remaining rocks. Output this maximum possible minimum distance.
 
