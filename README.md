@@ -2,7 +2,7 @@
 
 
 
-These problems reflect the current progress of learning C++ and algorithmic problem solving.
+These problems reflect my current progress in C++ and algorithms:
 
 ## Maximum Minimum Jump Distance After Removing Rocks
 Given a river of width m with n rocks positioned in it, you are allowed to remove up to k rocks. Your goal is to maximize the minimum distance one has to jump between remaining rocks. Output this maximum possible minimum distance.
